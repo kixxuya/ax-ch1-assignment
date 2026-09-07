@@ -1,7 +1,6 @@
 -- AX 2회차 Ch1 과제: SQL & 데이터베이스 기초
 -- 작성자: 채희주
 -- 환경: PostgreSQL + DBeaver
--- 위에서부터 순서대로 실행하면 전체 흐름이 재현됩니다.
 
 -- Part 1. Schema와 Table 만들기
 DROP SCHEMA IF EXISTS practice CASCADE;
